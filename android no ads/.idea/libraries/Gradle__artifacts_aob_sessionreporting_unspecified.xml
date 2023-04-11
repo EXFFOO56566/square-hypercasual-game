@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:aob_sessionreporting:unspecified">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/a0e3950215f4274f296ebf9962522713/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/a0e3950215f4274f296ebf9962522713/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/aob_sessionreporting.aar/a0e3950215f4274f296ebf9962522713/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

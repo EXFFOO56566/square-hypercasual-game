@@ -1,0 +1,7 @@
+#Thu Feb 04 16:53:11 IST 2021
+base.0=C\:\\Users\\Naveen\\Desktop\\newCodecanyon\\moveit\\admob-version\\android_code\\moveit-no-ads-1.0.0\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Naveen\\Desktop\\newCodecanyon\\moveit\\admob-version\\android_code\\moveit-no-ads-1.0.0\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0

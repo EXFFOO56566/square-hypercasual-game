@@ -1,0 +1,2 @@
+# Referenced at C:\Users\Naveen\Desktop\newCodecanyon\moveit\admob-version\android_code\moveit-no-ads-1.0.0\android\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:36
+-keep class androidx.multidex.MultiDexApplication { <init>(...); }
